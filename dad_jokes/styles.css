@@ -1,0 +1,10 @@
+body {
+  background-color: dimgray;
+  margin: auto;
+
+  text-align: center;
+}
+.search {
+  width: 100%;
+  margin: 20px;
+}
